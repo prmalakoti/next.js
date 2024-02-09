@@ -1,4 +1,5 @@
 ## Getting Started nextjs V- 14.0.3
+### npm create next-app
 
 First, run the development server:
 
